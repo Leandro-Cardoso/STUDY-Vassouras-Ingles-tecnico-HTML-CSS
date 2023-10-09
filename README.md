@@ -8,7 +8,7 @@
     <h2>Sobre</h2>
 </div>
 
-Esse projeto foi desenvolvido como trabalho da Universidade de Vassouras, curso de Engenharia de Software, disciplina de Inglês Técnico, ministrada pelo professor João Coelho.<br><br>
+Esse projeto foi desenvolvido como trabalho da Universidade de Vassouras, curso de Engenharia de Software, disciplina de Inglês Técnico, ministrada pelo professor Gioliano Bertoni.<br><br>
 A primeira atividade é criar um site utilizando HTML e CSS através do tutorial em inglês do link abaixo e postar no GitHub com este arquivo README.
 
 <p>
