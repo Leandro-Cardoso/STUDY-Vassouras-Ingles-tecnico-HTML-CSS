@@ -1,4 +1,4 @@
-# RPG Green Valley
+# Making Website With HTML e CSS
 
 **<a href="https://leandro-cardoso.github.io/STUDY-Vassouras-Ingles-tecnico-HTML-CSS/" target="_blank">
     🌎 LINK DO SITE
@@ -13,7 +13,7 @@ A primeira atividade é criar um site utilizando HTML e CSS através do tutorial
 
 <p>
     <a href="https://www.hostinger.com/tutorials/making-website-with-html" target="_blank">
-        Making Website With HTML
+        Making Website With HTML e CSS
     </a>
 </p>
 
